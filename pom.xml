@@ -7,7 +7,7 @@
 	<version>0.0.9</version>
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
-
+	<!---GITHUB DEMO-->
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
